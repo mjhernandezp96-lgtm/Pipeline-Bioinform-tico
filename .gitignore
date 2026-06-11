@@ -7,8 +7,8 @@
 *.tbl
 *.keys
 
-# Results
-results/
+# Results (generated but tracked for evaluation)
+# results/
 
 # Python
 __pycache__/
