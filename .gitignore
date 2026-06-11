@@ -1,0 +1,27 @@
+# Data files
+*.hmm
+*.h3*
+*.gz
+*.fasta
+*.fa
+*.tbl
+*.keys
+
+# Results
+results/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
